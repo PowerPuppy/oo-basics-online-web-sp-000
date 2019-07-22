@@ -8,7 +8,7 @@ end
 
 def cobble
   puts "She has been repaired."
-  @condition = "New"
+  @condition = "new"
 end
 
 
